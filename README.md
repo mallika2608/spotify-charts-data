@@ -1,2 +1,2 @@
 # spotify-charts-data
-A script to pull weekly charts data from Spotify Charts.
+A script to pull weekly charts data from Spotify Charts. (https://spotifycharts.com)
